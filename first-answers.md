@@ -27,3 +27,6 @@ Automatic merge failed; fix conflicts and then commit the result.
 * header
   master
 
+5. Answer for question 5
+die.h  first-answers.md  README.md  second-answers.md  testfile.txt
+
