@@ -40,3 +40,6 @@ Automatic merge failed; fix conflicts and then commit the result.
 * implement
   master
 
+5. Answer to question 5
+die.cc  first-answers.md  README.md  second-answers.md  testfile2.txt
+
