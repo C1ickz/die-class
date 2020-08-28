@@ -20,3 +20,4 @@ cout << "Roll: " << d12.roll() << endl;
 }
 return 0;
 }
+
