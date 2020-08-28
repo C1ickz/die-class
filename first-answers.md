@@ -34,4 +34,4 @@ die.h  first-answers.md  README.md  second-answers.md  testfile.txt
 first-answers.md  README.md  second-answers.md  testfile.txt
 
 7. Answer to question 7
-The die.cc file is not in the master branch
+The die.h file is not in the master branch
