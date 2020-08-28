@@ -33,3 +33,10 @@ Auto-merging README.md
 CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
 
+3. Answer to question 3
+* master
+ 
+4. Answer to question 4
+* implement
+  master
+
