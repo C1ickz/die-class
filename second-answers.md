@@ -43,3 +43,9 @@ Automatic merge failed; fix conflicts and then commit the result.
 5. Answer to question 5
 die.cc  first-answers.md  README.md  second-answers.md  testfile2.txt
 
+6. Answer to Question 6
+first-answers.md  README.md  second-answers.md  testfile2.txt
+
+7. Answer to question 7
+The die.cc file is not in the master branch
+
