@@ -20,3 +20,18 @@ Auto-merging README.md
 CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
 
+3. Answer for question 3
+* master
+
+4. Answer for question 4
+* header
+  master
+
+5. Answer for question 5
+die.h  first-answers.md  README.md  second-answers.md  testfile.txt
+
+6. Answer to Question 6
+first-answers.md  README.md  second-answers.md  testfile.txt
+
+7. Answer to question 7
+The die.h file is not in the master branch
